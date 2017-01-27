@@ -41,8 +41,8 @@ We use `require1k.min.js` to treat our javascript files as CommonJS modules.
 
 ### main.js
 
-We load the `mocks.js` file from the modules folder. See details of this file 
-below. 
+We load the `mocks.js` file from the modules folder. 
+[See details of this file below.](#modulesmocksjs) 
 
     let mocksEnabled = require('./modules/mocks');
     
