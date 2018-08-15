@@ -234,6 +234,6 @@ themselves:
 
 If we have set the config to true, we will apply the mocks. Otherwise, calls 
 will pass through to axios. This enables us to use the same code for both dev
-and deploy. Jus the wiggle the config setting accordingly.
+and deploy. Just wiggle the config setting accordingly.
 
 
