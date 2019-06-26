@@ -1,6 +1,6 @@
 {
   "name": "axios-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo of using mock endpoints for axios.",
   "main": "server.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0",
-    "open": "0.0.5"
+    "open": ">=6.0.0"
   }
 }
